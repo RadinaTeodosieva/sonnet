@@ -1,7 +1,7 @@
 # Sonnet 85
 ## by Shakespeare
 
-![quill](imgs/quill.jpg)
+![shakespeare_william](imgs/shakespeare_william.jpg)
 
 My tongue-tied muse in manners holds her still,
 While comments of your praise richly compiled,

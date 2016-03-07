@@ -1,22 +1,15 @@
-# Test markdown document
-
-# This is a H1 Header
-## This is a H2 Sub-header
-### This is a H3 Paragraph header
-
-Headers are created using the pound symbol (\#). A single # will create a header 1 (H1), 2 ## will create a header 2 (H2) and so on until H6. 
-
-This is a paragraph in markdown, it is simply text. Unlike html it has no tags like \<p> to show it is a paragraph. By adding * characters I can make this word *italic* and this **bold**.
-Markdown is a simple language that is easily converted to different outputs, which is why we use it in the hybrid publishing workflow.
-
-Footnotes look like this: \[^fn-sample_footnote]
-
-Clicking this number[^fn-sample_footnote] will lead you to a footnote.
-
-
-Images are inserted like this:
-\!\[](example.jpg)
-
-You can find more markdown syntax on the <a href="https://daringfireball.net/projects/markdown/syntax">daringfireball site</a>.
-
-[^fn-sample_footnote]: Handy! Now click the return link to go back.
+#85 Sonnet
+My tongue-tied muse in manners holds her still,
+While comments of your praise richly compiled,
+Reserve their character with golden quill,
+And precious phrase by all the Muses filed.
+I think good thoughts, whilst other write good words,
+And like unlettered clerk still cry Amen,
+To every hymn that able spirit affords,
+In polished form of well refined pen.
+Hearing you praised, I say 'tis so, 'tis true,
+And to the most of praise add something more,
+But that is in my thought, whose love to you
+(Though words come hindmost) holds his rank before,
+Then others, for the breath of words respect,
+Me for my dumb thoughts, speaking in effect.

@@ -1,8 +1,13 @@
-@font-face{
-    font-family: 'OpenSans-Light';
-    font-weight: lighter;
-    font-style: normal;
-    src:url('OpenSans-Light.otf')format("opentype");
+/* ubuntu-regular - latin */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/ubuntu-v9-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Ubuntu'),
+       url('../fonts/ubuntu-v9-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       }
+
 }
 
 @font-face{
